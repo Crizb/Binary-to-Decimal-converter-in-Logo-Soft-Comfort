@@ -12,7 +12,6 @@ And that is how everything should look like when you open the program:
 
 ![Alt text](Pictures/Inputs-And-Outputs.jpg?raw=true "Inputs and Outputs")
 
-Pictures/Buttons, Flags and Outputs Binary to Decimal.png
 Instructions:
 1. Set Display1 as "Character set1" and display 2 as "Character set2"
 2. Input a number in Binary format on buttons I5 - I24
